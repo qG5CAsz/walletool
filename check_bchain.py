@@ -9,7 +9,7 @@ from walletool import utils
 from pathlib import Path
 
 
-utils.run_sync(FORCE_SYNC=True)
+utils.run_sync()
 
 def _banner() -> Panel:
     return Panel.fit(

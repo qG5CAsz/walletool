@@ -6,19 +6,19 @@ A utility for extracting cryptocurrency wallet data from wallet.dat files.
 
 ## **To set up the software on Windows or macOS,** 
 
-Windows or Linux? Refer to the manual below. On macOS? Use the [DMG file](../../releases).  
+Windows and Linux users see the guide; macOS users can use the [DMG file](../../releases).
 
 
 
 
 
-Make sure Git and Python are available on Windows.
+Validate your Windows setup for Git and Python.
 
-Git for Windows: https://git-scm.com/install/windows  
+https://git-scm.com/install/windows  
 
-Python for Windows: https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
+https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
 
-Access GIT CMD.
+Open the GIT CMD terminal.
 
 
 
